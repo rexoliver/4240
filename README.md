@@ -9,6 +9,7 @@ Select User:
 2. user2
 3. root
 Enter email address of administrator we want to send this report to:
+
 Options for this user: 
 1.  Total Resources Used
 2. list of running programs
