@@ -20,4 +20,4 @@ Options for this user:
 4. List of resources with total usage printed beside them 
 
 
-Output: <user>_report.txt
+Output: \<user\>_report.txt
