@@ -3,8 +3,7 @@ CPSC 4240 Group Project
 
 Usage: 
 
-
-./ourprogram
+bash task-manager.sh
 
 Select User:
 1. user1
@@ -20,4 +19,4 @@ Options for this user:
 4. List of resources with total usage printed beside them 
 
 
-Output: \<user\>_report.txt
+Output: output-\<user\>.txt
