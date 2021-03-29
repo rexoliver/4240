@@ -3,7 +3,6 @@ CPSC 4240 Group Project
 
 Usage: 
 
-Output: txtfile
 
 ./ourprogram
 
@@ -15,7 +14,10 @@ Select User:
 Enter email address of administrator we want to send this report to:
 
 Options for this user: 
-1.  Total Resources Used
-2. list of running programs
-3. list of programs by resource usage
-4. list of users sorted by resource usage
+1. Total Resources Used
+2. List of running programs
+3. List of programs by resource usage
+4. List of resources with total usage printed beside them 
+
+
+Output: <user>_report.txt
